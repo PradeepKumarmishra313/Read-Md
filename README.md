@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep Kumar Mishra</h1>
-<h3 align="center">I’m a passionate 🚀 Web Developer with a strong drive for crafting dynamic, user-friendly, and scalable applications💻.</h3>
+<h3 align="center">👋 Hi there! I’m Pradeep Kumar Mishra, a passionate 🚀 Web Developer with a strong drive for crafting dynamic, user-friendly, and scalable applications💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepkumarmishra313&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepkumarmishra313" /> </p>
 
